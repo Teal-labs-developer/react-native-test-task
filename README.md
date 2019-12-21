@@ -39,11 +39,11 @@ Your app should be able to complete the following tasks:
 * Filter between completed and active items
 
 #### Bonus:
-* Implement a simple react-native library with bridge that implements Functionalities of AsyncStorage
+* Implement a simple react-native library with bridge that implements Functionalities of AsyncStorage. Create on one of the either native platforms (Android or iOS).
 * Create a todo task writing screen something like following:
 ![](https://todden.s3.ap-south-1.amazonaws.com/assets/images/misc/test_task_note_1.png)
 
 [Reference Video](https://todden.s3.ap-south-1.amazonaws.com/assets/images/misc/test_notes_task.mov "Reference Video")
-* Persist data using AsyncStorage
+* Persist data using AsyncStorage, (Use your custom created library for this)
 * Include animations
 Refer to [this reference video](https://todden.s3.ap-south-1.amazonaws.com/assets/images/misc/feed_tab_animation.mov "this reference video"). Create a feed similar to shown in the video for completed and pending to-do notes. And implement the animation for tab with scroll as shown in the video.
